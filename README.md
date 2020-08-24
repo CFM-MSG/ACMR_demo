@@ -1,4 +1,4 @@
-### demo codes for "Adversarial Cross-modal Retrieval (ACMR)"
+### Demo codes for "Adversarial Cross-modal Retrieval (ACMR)"
 
 To run the demo: 
 
